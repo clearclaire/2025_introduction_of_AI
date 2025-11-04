@@ -2,7 +2,7 @@
 https://www.boostcourse.org/precourse1
 https://www.boostcourse.org/precourse2
 
-Completed in August 2025, this repository documents practice of course (including practice of algorithm)
+Completed in August 2025, this repository documents includes practice of course (including practice of algorithm)
 
 1. PyTorch 기본
 - Introduction to PyTorch
